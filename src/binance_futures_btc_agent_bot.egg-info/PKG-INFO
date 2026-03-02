@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: binance-futures-btc-agent-bot
+Version: 0.1.0
+Summary: Survival-first Binance Futures BTC bot
+Author: Alvin
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"
